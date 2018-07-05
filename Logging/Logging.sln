@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortBDay", "SortBDay\SortBDay.csproj", "{40506945-49B8-477C-B32D-9A0E3EC8BD45}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.csproj", "{2A181FA2-0E83-4DEC-8A93-79E4E7BED28D}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{40506945-49B8-477C-B32D-9A0E3EC8BD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40506945-49B8-477C-B32D-9A0E3EC8BD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40506945-49B8-477C-B32D-9A0E3EC8BD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40506945-49B8-477C-B32D-9A0E3EC8BD45}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2A181FA2-0E83-4DEC-8A93-79E4E7BED28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2A181FA2-0E83-4DEC-8A93-79E4E7BED28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A181FA2-0E83-4DEC-8A93-79E4E7BED28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7EC5CC27-0474-4FB2-AE50-C887D88626F8}
+		SolutionGuid = {C371F807-BF59-4325-B6FF-39A756FA209E}
 	EndGlobalSection
 EndGlobal
